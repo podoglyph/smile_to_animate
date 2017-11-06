@@ -19,6 +19,8 @@ To start the app, from the project root:
 
 Once loaded, just smile!
 
+To quit, just press 'q'.
+
 ## License
 
 This project is licensed under the MIT License.
