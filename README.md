@@ -16,7 +16,7 @@ You'll also need to use your own animation. Download a video into the root direc
 
 To use an external (USB) camera, edit the argument in `line 30` from `0` to `1`.
 
-### Installing
+### Run it
 
 To start the app, from the project root:
 `python smile.py`
