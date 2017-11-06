@@ -12,6 +12,8 @@ This app was developed in Python 3. It is recommended to use a virtual environme
 
 The main dependency is `opencv-python`. Install it using your favorite package manager.
 
+You'll also need to use your own animation. Download an animation into the root directory and edit `line 29` of `smile.py` accordingly.
+
 ### Installing
 
 To start the app, from the project root:
